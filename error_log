@@ -1,0 +1,1110 @@
+[17-Feb-2013 07:02:12 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 07:05:10 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lakshyac/public_html/admin_home.php on line 95
+[17-Feb-2013 09:08:32 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 09:20:23 America/New_York] PHP Parse error:  syntax error, unexpected 'mysql_error' (T_STRING) in /home/lakshyac/public_html/index.php on line 256
+[17-Feb-2013 09:32:21 America/New_York] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/lakshyac/public_html/index.php on line 256
+[17-Feb-2013 09:51:08 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 10:17:31 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 10:18:52 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 10:19:48 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 10:22:59 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 10:23:35 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/admin_home.php on line 95
+[17-Feb-2013 10:29:12 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/suggestions.php on line 90
+[17-Feb-2013 10:29:12 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lakshyac/public_html/suggestions.php on line 95
+[17-Feb-2013 10:29:12 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/lakshyac/public_html/suggestions.php on line 97
+[17-Feb-2013 10:29:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/lakshyac/public_html/suggestions.php on line 101
+[17-Feb-2013 10:29:12 America/New_York] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/suggestions.php on line 124
+[17-Feb-2013 10:31:01 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/suggestions.php on line 101
+[17-Feb-2013 10:31:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:10) in /home/lakshyac/public_html/add_comment.php on line 42
+[17-Feb-2013 10:35:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:10) in /home/lakshyac/public_html/add_comment.php on line 42
+[17-Feb-2013 10:36:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:10) in /home/lakshyac/public_html/add_comment.php on line 42
+[17-Feb-2013 10:38:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:33) in /home/lakshyac/public_html/add_comment.php on line 41
+[17-Feb-2013 10:41:11 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:33) in /home/lakshyac/public_html/add_comment.php on line 41
+[17-Feb-2013 10:42:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:36) in /home/lakshyac/public_html/add_comment.php on line 41
+[17-Feb-2013 10:51:25 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/admin_home.php on line 95
+[17-Feb-2013 10:54:04 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/admin_home.php on line 95
+[17-Feb-2013 10:56:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[17-Feb-2013 10:56:35 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/admin_home.php on line 134
+[17-Feb-2013 10:59:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[17-Feb-2013 10:59:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 145
+[17-Feb-2013 11:00:58 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/sqltest.php on line 7
+[17-Feb-2013 11:03:29 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/lakshyac/public_html/sqltest.php on line 10
+[17-Feb-2013 11:04:10 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 145
+[17-Feb-2013 11:04:21 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/archive_insert.php on line 8
+[17-Feb-2013 11:07:33 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/lakshyac/public_html/archive_insert.php on line 11
+[17-Feb-2013 11:09:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/archive_insert.php:39) in /home/lakshyac/public_html/archive_insert.php on line 44
+[17-Feb-2013 11:14:36 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'lakshyac_aman'@'localhost' (using password: YES) in /home/lakshyac/public_html/delmessage.php on line 4
+[17-Feb-2013 11:16:08 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/lakshyac/public_html/delmessage.php on line 7
+[18-Feb-2013 06:26:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:29:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:29:12 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:29:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:31:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:31:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:32:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:32:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:33:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:33:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:34:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:45:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 06:47:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:00:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:11:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:12:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:13:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:15:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:19:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:19:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:19:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:53:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:53:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 07:55:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[18-Feb-2013 10:13:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 01:38:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 04:38:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 04:39:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 05:02:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 05:02:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 05:04:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 05:05:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 05:05:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 09:22:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 09:22:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 09:23:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:00:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:08:44 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:08:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:10:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:13:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:15:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:15:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:16:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:16:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:19:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:19:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:19:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:19:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:21:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:21:44 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:21:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:21:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:21:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:22:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:31:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:31:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:32:22 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:33:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:33:21 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:33:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:34:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:34:46 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:34:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:35:51 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:35:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:36:51 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:37:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:37:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:39:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 14:42:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 18:12:38 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 18:12:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 18:12:53 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 18:13:12 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 18:13:22 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 20:21:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 20:26:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 20:26:16 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 20:29:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:01:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:02:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:02:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:03:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:03:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:08:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:21:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:21:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:21:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:21:55 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:22:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Feb-2013 22:22:16 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:06:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:08:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:09:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:11:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:13:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:38:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:43:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:44:16 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:46:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:50:46 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:53:18 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:53:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:55:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:58:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 00:59:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 01:00:21 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 01:02:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 01:03:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 01:04:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 01:05:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 01:05:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 02:16:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 02:17:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 06:03:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 06:03:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 06:03:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 06:03:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 08:42:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 09:38:56 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 09:48:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 09:49:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 10:12:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 10:36:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:03:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:06:53 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:07:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:07:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:07:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:07:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:24:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:28:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:35:38 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:39:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:42:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:43:53 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:49:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:50:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:52:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:52:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 12:54:22 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:19:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:22:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:36:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:36:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:36:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:38:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:39:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:48:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:49:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:51:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:53:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:53:28 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/lakshyac/public_html/add_event.php on line 6
+[20-Feb-2013 13:53:46 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:56:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 13:57:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:07:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:09:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:11:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:12:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:16:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:18:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:28:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:33:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 14:34:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:04:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:11:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:12:18 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:13:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:13:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:15:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:15:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:16:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:17:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:18:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:19:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:19:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:20:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:21:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:21:55 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:23:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:24:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:24:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:25:06 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:25:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:26:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:27:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:28:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:40:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:41:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:43:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:44:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:45:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:47:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:48:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:54:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:55:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 15:59:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:00:44 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:04:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:05:56 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:07:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:08:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:09:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:10:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:11:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:11:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:12:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:13:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:14:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:16:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:17:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:19:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:22:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:24:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:26:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:27:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:37:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:37:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:40:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:54:12 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:56:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 16:57:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:01:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:02:22 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:03:44 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:04:38 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:06:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:07:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:09:21 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:10:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:10:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:11:56 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:12:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:12:58 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/lakshyac/public_html/index.php on line 222
+[20-Feb-2013 17:14:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:14:40 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/lakshyac/public_html/index.php on line 222
+[20-Feb-2013 17:15:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:18:06 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:20:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:20:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:21:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:23:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:24:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:26:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:26:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:28:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:28:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:29:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 17:29:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[20-Feb-2013 20:33:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:03:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:03:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:06:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:14:06 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:17:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:18:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:49:48 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:50:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 00:53:56 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 03:13:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 03:15:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 03:16:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 03:17:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 08:46:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 08:47:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 10:29:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 10:49:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 10:51:16 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 11:03:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 11:07:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 11:08:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 11:09:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 11:10:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:39:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:39:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:42:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:47:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:48:55 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:49:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:51:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:51:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:51:30 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/suggestions.php on line 101
+[21-Feb-2013 12:52:12 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:52:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/suggestions.php on line 101
+[21-Feb-2013 12:52:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 12:53:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:02:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:03:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:04:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:05:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:40:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:41:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:47:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:49:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:51:12 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:52:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 13:57:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:08:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:09:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:09:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:09:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:13:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:13:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:13:38 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:15:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:20:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:20:02 America/New_York] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Empty regular expression in /home/lakshyac/public_html/update_doners.php on line 3
+[21-Feb-2013 14:20:02 America/New_York] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Empty regular expression in /home/lakshyac/public_html/update_doners.php on line 4
+[21-Feb-2013 14:20:02 America/New_York] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Empty regular expression in /home/lakshyac/public_html/update_doners.php on line 5
+[21-Feb-2013 14:20:02 America/New_York] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Empty regular expression in /home/lakshyac/public_html/update_doners.php on line 6
+[21-Feb-2013 14:20:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/update_doners.php:3) in /home/lakshyac/public_html/update_doners.php on line 14
+[21-Feb-2013 14:21:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:21:14 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/lakshyac/public_html/update_doners.php on line 6
+[21-Feb-2013 14:22:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:22:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:22:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:23:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:23:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:23:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:24:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:24:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:24:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:27:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:27:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:27:19 America/New_York] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter '/' found in /home/lakshyac/public_html/update_doners.php on line 4
+[21-Feb-2013 14:27:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/update_doners.php:4) in /home/lakshyac/public_html/update_doners.php on line 14
+[21-Feb-2013 14:28:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:28:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:28:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:32:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:32:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:32:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:34:48 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:34:48 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:34:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:34:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:36:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:36:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:36:11 America/New_York] PHP Parse error:  syntax error, unexpected ',', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/lakshyac/public_html/update_doners.php on line 3
+[21-Feb-2013 14:37:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:37:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:37:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 14:56:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 15:01:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 15:04:56 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 23:28:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 23:35:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 23:44:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[21-Feb-2013 23:47:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 03:59:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 04:03:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 04:04:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 05:19:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 06:05:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 07:36:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 08:30:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 08:32:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 08:45:21 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 09:11:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 09:11:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 09:14:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 09:16:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 09:29:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 09:30:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 09:30:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 11:38:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Feb-2013 20:21:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 01:22:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 01:25:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 01:28:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 02:32:53 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 02:38:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 02:42:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:16:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:22:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:35:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:35:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:37:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:37:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:39:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:40:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:41:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:42:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 03:43:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 04:11:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 04:20:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 04:28:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:03:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:06:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:11:18 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:12:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:13:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:15:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:15:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:19:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:19:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:19:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:20:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:20:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:20:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:21:22 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:21:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:21:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:21:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:22:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:22:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:24:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:24:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:24:21 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:24:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:27:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:28:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:28:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:28:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:28:46 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:28:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:29:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:30:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:31:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:31:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:31:44 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:36:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:37:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:37:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:37:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:47:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 05:49:18 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 07:56:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 07:56:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 07:58:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:08:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:09:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:10:18 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:10:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:10:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:11:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:11:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:12:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:12:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:12:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:14:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:15:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:20:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:20:23 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:20:51 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:21:48 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:21:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:29:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:30:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:45:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:47:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:53:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:53:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:54:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:54:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:56:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 08:58:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:01:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:02:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:02:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:02:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:03:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:06:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:08:48 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:14:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:24:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:24:16 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:30:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:30:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:31:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:31:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:31:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:32:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:33:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:33:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:33:44 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:35:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:35:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:35:51 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:37:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:42:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:46:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:47:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:47:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:48:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:48:59 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/lakshyac/public_html/index.php on line 175
+[23-Feb-2013 09:49:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:49:46 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:50:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:50:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:52:51 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 09:58:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:00:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:01:18 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:01:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:01:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:01:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:02:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:02:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:05:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:12:44 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:12:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:12:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:14:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:15:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:16:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:18:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:23:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:23:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:24:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:25:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:25:34 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/lakshyac/public_html/index.php on line 170
+[23-Feb-2013 10:28:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:28:41 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/lakshyac/public_html/index.php on line 170
+[23-Feb-2013 10:28:46 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:28:46 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/lakshyac/public_html/index.php on line 170
+[23-Feb-2013 10:30:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:32:18 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:33:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:35:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:38:21 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:39:55 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:39:55 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:40:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:47:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:48:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:50:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:50:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:51:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:52:49 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:54:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:57:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:57:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 10:58:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:01:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:02:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:02:16 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:02:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:02:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:03:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:03:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:03:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:05:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:07:01 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:07:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:08:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:09:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:09:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:10:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:10:12 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:14:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:18:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:19:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:21:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:23:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:24:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:26:03 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:29:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:29:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:30:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:30:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:37:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:46:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:51:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:53:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 11:56:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:02:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:02:17 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:05:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:07:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:08:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:11:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:15:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:18:53 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:20:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:21:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:22:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:23:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:24:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:25:53 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:30:30 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:37:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:37:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:39:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:40:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:41:10 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:41:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:43:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:48:07 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 12:55:33 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 13:00:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 13:02:08 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 13:02:38 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 13:02:39 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 14:46:11 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 14:46:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 18:30:02 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 18:31:45 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 18:34:06 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 20:33:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 21:56:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 21:57:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 21:57:54 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:00:19 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:01:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:02:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:03:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:34:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:42:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:45:53 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:45:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:48:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:49:22 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:49:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:50:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:50:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:50:48 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:52:05 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:52:14 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:52:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:54:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:55:32 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:55:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:55:58 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 22:57:56 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:00:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:01:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:01:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:08:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:08:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:08:35 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:09:22 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:09:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:13:55 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:36:00 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:36:27 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[23-Feb-2013 23:37:50 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 00:14:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 00:19:34 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 01:02:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 01:05:36 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 02:43:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 03:22:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 03:23:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 03:47:15 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 03:51:13 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 03:52:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 03:52:40 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 03:54:42 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 04:48:09 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 05:11:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 05:45:25 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 05:45:28 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 06:14:43 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 08:42:41 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 09:02:04 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 09:03:31 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 09:15:29 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 10:06:55 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 10:09:52 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 10:38:47 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 10:41:24 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 10:43:26 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 10:43:37 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 12:19:59 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[24-Feb-2013 23:29:57 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Feb-2013 03:56:20 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Feb-2013 03:56:56 America/New_York] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[26-Feb-2013 07:51:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 08:01:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 08:42:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 10:24:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 10:25:27] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 10:34:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 10:38:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 10:43:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 13:53:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 20:33:25] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 23:01:04] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[26-Feb-2013 23:01:04] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Feb-2013 08:22:08 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 169
+[28-Feb-2013 08:34:23 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/lakshyac/public_html/delmessagec.php on line 12
+[28-Feb-2013 08:34:54 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/lakshyac/public_html/delmessagec.php on line 12
+[28-Feb-2013 08:35:01 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/lakshyac/public_html/delmessagec.php on line 12
+[28-Feb-2013 08:35:34 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/lakshyac/public_html/delmessagec.php on line 13
+[07-Mar-2013 07:56:38 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:6) in /home/lakshyac/public_html/add_comment.php on line 45
+[07-Mar-2013 07:57:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:6) in /home/lakshyac/public_html/add_comment.php on line 45
+[07-Mar-2013 07:59:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/add_comment.php:6) in /home/lakshyac/public_html/add_comment.php on line 45
+[07-Mar-2013 08:05:25 America/New_York] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/lakshyac/public_html/index.php on line 236
+[07-Mar-2013 08:08:28 America/New_York] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/lakshyac/public_html/index.php on line 236
+[07-Mar-2013 08:08:31 America/New_York] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/lakshyac/public_html/index.php on line 236
+[10-Mar-2013 03:42:31 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 72
+[10-Mar-2013 03:43:20 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 72
+[10-Mar-2013 03:43:27 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 72
+[10-Mar-2013 03:45:00 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 72
+[10-Mar-2013 03:45:37 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 69
+[10-Mar-2013 03:46:19 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 69
+[10-Mar-2013 03:50:12 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 69
+[10-Mar-2013 03:51:04 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 69
+[10-Mar-2013 03:51:08 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/lakshyac/public_html/contact.php on line 69
+[10-Mar-2013 05:00:31 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/Suggestions.php on line 101
+[10-Mar-2013 05:01:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/tcomment.php:29) in /home/lakshyac/public_html/tcomment.php on line 42
+[10-Mar-2013 05:01:50 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[10-Mar-2013 05:01:50 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[10-Mar-2013 05:02:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[10-Mar-2013 05:02:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[10-Mar-2013 05:03:11 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[10-Mar-2013 05:03:11 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[10-Mar-2013 05:03:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[10-Mar-2013 05:03:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[10-Mar-2013 05:04:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[10-Mar-2013 05:04:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[10-Mar-2013 14:18:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[11-Mar-2013 00:19:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Mar-2013 00:19:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Mar-2013 00:24:47 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Mar-2013 00:24:47 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Mar-2013 07:32:58 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Mar-2013 07:32:58 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Mar-2013 09:12:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[12-Mar-2013 04:14:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[12-Mar-2013 04:15:24 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[12-Mar-2013 04:16:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[12-Mar-2013 04:16:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[12-Mar-2013 04:16:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[12-Mar-2013 05:25:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Mar-2013 05:25:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Mar-2013 07:30:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[12-Mar-2013 08:42:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[13-Mar-2013 03:38:50 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 03:38:50 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 03:39:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 03:39:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 03:39:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 03:39:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 04:16:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[13-Mar-2013 04:17:14 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 68
+[13-Mar-2013 07:45:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 07:45:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 07:53:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 07:53:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 07:57:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 07:57:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 07:57:34 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 07:57:34 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 07:58:38 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/Suggestions.php on line 101
+[13-Mar-2013 08:01:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/Suggestions.php on line 101
+[13-Mar-2013 08:01:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 08:01:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 08:02:14 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 08:02:14 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 09:47:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 67
+[13-Mar-2013 09:49:33 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 09:49:33 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 09:49:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 09:49:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 09:52:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lakshyac/public_html/contact.php:26) in /home/lakshyac/public_html/contact.php on line 67
+[13-Mar-2013 11:01:30 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 11:01:30 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 11:02:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 11:02:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Mar-2013 11:25:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-Mar-2013 11:25:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[14-Mar-2013 17:46:18 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[14-Mar-2013 17:46:18 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[14-Mar-2013 18:02:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[14-Mar-2013 18:02:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[14-Mar-2013 18:02:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[14-Mar-2013 18:02:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[14-Mar-2013 18:02:58 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[14-Mar-2013 18:02:58 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[14-Mar-2013 18:03:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[14-Mar-2013 18:03:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Mar-2013 04:50:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Mar-2013 04:50:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Mar-2013 04:56:16 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Mar-2013 04:56:16 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Mar-2013 04:56:30 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Mar-2013 04:56:30 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Mar-2013 04:56:42 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Mar-2013 04:56:42 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Mar-2013 04:58:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Mar-2013 04:58:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Mar-2013 04:59:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Mar-2013 04:59:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Mar-2013 04:59:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Mar-2013 04:59:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[17-Mar-2013 11:07:39 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[17-Mar-2013 11:07:39 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Mar-2013 07:26:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Mar-2013 07:26:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[25-Mar-2013 02:04:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Mar-2013 02:54:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Mar-2013 05:37:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Mar-2013 05:43:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Mar-2013 05:48:50] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Mar-2013 15:24:05 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[29-Mar-2013 15:24:05 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[04-Apr-2013 02:37:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[04-Apr-2013 02:37:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[04-Apr-2013 02:37:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[04-Apr-2013 02:37:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[04-Apr-2013 02:39:43 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[04-Apr-2013 02:39:43 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[04-Apr-2013 02:40:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[04-Apr-2013 02:40:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[04-Apr-2013 02:40:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[04-Apr-2013 02:40:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[06-Apr-2013 04:08:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[06-Apr-2013 04:08:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-Apr-2013 11:06:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-Apr-2013 11:06:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-Apr-2013 11:10:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-Apr-2013 11:10:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-Apr-2013 11:12:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-Apr-2013 11:12:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-Apr-2013 11:17:02 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-Apr-2013 11:17:02 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-Apr-2013 11:17:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-Apr-2013 11:17:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-Apr-2013 11:19:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-Apr-2013 11:19:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[08-Apr-2013 11:12:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[08-Apr-2013 11:12:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[08-Apr-2013 11:17:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[08-Apr-2013 11:17:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Apr-2013 01:48:14 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Apr-2013 01:48:14 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Apr-2013 01:48:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Apr-2013 01:48:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Apr-2013 01:49:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Apr-2013 01:49:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Apr-2013 01:50:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Apr-2013 01:50:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Apr-2013 05:45:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Apr-2013 05:45:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Apr-2013 05:46:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Apr-2013 05:46:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[21-Apr-2013 13:41:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[21-Apr-2013 13:41:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[21-Apr-2013 13:45:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[21-Apr-2013 13:45:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[21-Apr-2013 13:47:33 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[21-Apr-2013 13:47:33 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[21-Apr-2013 13:50:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[21-Apr-2013 13:50:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[21-Apr-2013 13:52:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[21-Apr-2013 13:52:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[21-Apr-2013 13:55:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[21-Apr-2013 13:55:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Apr-2013 09:00:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Apr-2013 09:00:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Apr-2013 09:01:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Apr-2013 09:01:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Apr-2013 09:03:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Apr-2013 09:03:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Apr-2013 09:03:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Apr-2013 09:03:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Apr-2013 09:03:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Apr-2013 09:03:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Apr-2013 09:04:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Apr-2013 09:04:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-Apr-2013 09:05:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-Apr-2013 09:05:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[02-May-2013 01:46:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[02-May-2013 01:46:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[02-May-2013 01:46:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[02-May-2013 01:46:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[02-May-2013 03:01:40 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[02-May-2013 03:01:40 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[02-May-2013 03:02:01 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[02-May-2013 03:02:01 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[05-May-2013 13:59:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[05-May-2013 13:59:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[05-May-2013 14:08:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[05-May-2013 14:08:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[05-May-2013 14:09:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[05-May-2013 14:09:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[05-May-2013 14:10:10 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[05-May-2013 14:10:10 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[06-May-2013 09:38:48 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[06-May-2013 09:38:48 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[06-May-2013 09:44:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[06-May-2013 09:44:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-May-2013 01:40:20 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-May-2013 01:40:20 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[07-May-2013 01:40:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[07-May-2013 01:40:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[08-May-2013 10:25:29 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[08-May-2013 10:25:29 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[08-May-2013 10:25:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[08-May-2013 10:25:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-May-2013 09:51:33 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-May-2013 09:51:33 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-May-2013 09:52:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-May-2013 09:52:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:45:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:45:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:45:48 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:45:48 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:46:02 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:46:02 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:46:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:46:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:46:41 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:46:41 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:46:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:46:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:47:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:47:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:47:15 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:47:15 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 07:47:30 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 07:47:30 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 11:32:16 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 11:32:16 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 11:33:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 11:33:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 11:33:19 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 11:33:19 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-May-2013 11:34:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[13-May-2013 11:34:23 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[14-May-2013 00:55:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[14-May-2013 00:55:53 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[14-May-2013 00:57:37 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[14-May-2013 00:57:37 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[15-May-2013 09:23:05 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[15-May-2013 09:23:05 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[15-May-2013 09:24:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[15-May-2013 09:24:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-May-2013 13:48:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-May-2013 13:48:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-May-2013 13:57:05 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-May-2013 13:57:05 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-May-2013 13:58:38 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-May-2013 13:58:38 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[22-May-2013 13:59:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[22-May-2013 13:59:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[23-May-2013 02:21:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[23-May-2013 02:21:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[23-May-2013 02:23:42 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[23-May-2013 02:23:42 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[23-May-2013 02:24:02 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[23-May-2013 02:24:02 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[23-May-2013 02:24:47 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[23-May-2013 02:24:47 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jun-2013 09:55:41 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jun-2013 09:55:41 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jun-2013 09:58:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jun-2013 09:58:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jun-2013 09:58:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jun-2013 09:58:21 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jun-2013 10:04:31 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jun-2013 10:04:31 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Jun-2013 14:40:42 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Jun-2013 14:40:42 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Jun-2013 14:43:46 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Jun-2013 14:43:46 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Jun-2013 14:44:31 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Jun-2013 14:44:31 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Jun-2013 14:45:32 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Jun-2013 14:45:32 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Jun-2013 14:46:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Jun-2013 14:46:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Jun-2013 14:46:54 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Jun-2013 14:46:54 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[11-Jun-2013 14:46:55 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[11-Jun-2013 14:46:55 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Jun-2013 05:25:37 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Jun-2013 05:25:37 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Jun-2013 05:29:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Jun-2013 05:29:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[27-Jun-2013 12:11:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[27-Jun-2013 12:11:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:34:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:34:24 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:35:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:35:17 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:35:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:35:35 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:35:55 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:35:55 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:36:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:36:04 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:36:20 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:36:20 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:36:29 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:36:29 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:36:34 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:36:34 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:36:40 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:36:40 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:36:50 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:36:50 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:36:56 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:36:56 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:37:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:37:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:37:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:37:12 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[01-Jul-2013 02:37:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[01-Jul-2013 02:37:22 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[05-Jul-2013 02:42:38 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[05-Jul-2013 02:42:38 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[05-Jul-2013 02:43:18 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[05-Jul-2013 02:43:18 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jul-2013 00:28:51 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jul-2013 00:28:51 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jul-2013 00:31:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jul-2013 00:31:26 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jul-2013 05:18:58 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jul-2013 05:18:58 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[09-Jul-2013 05:19:14 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[09-Jul-2013 05:19:14 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Jul-2013 00:10:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Jul-2013 00:10:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[16-Jul-2013 00:13:16 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[16-Jul-2013 00:13:16 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[26-Aug-2013 00:37:15 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[26-Aug-2013 00:37:15 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[26-Aug-2013 00:37:36 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[26-Aug-2013 00:37:36 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[28-Aug-2013 06:10:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[28-Aug-2013 06:10:13 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Sep-2013 10:07:46 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Sep-2013 10:07:46 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Sep-2013 10:08:36 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Sep-2013 10:08:36 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Sep-2013 10:09:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Sep-2013 10:09:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Sep-2013 10:10:47 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Sep-2013 10:10:47 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Sep-2013 10:14:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Sep-2013 10:14:07 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[12-Sep-2013 10:15:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 107
+[12-Sep-2013 10:15:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 138
+[13-Sep-2013 03:02:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[13-Sep-2013 03:02:49 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[17-Sep-2013 10:51:38 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[17-Sep-2013 10:51:38 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[17-Sep-2013 10:52:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[17-Sep-2013 10:52:03 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:23:56 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:23:56 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:31:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:31:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:32:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:32:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:33:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:33:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:35:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:35:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:35:28 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:35:28 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:36:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:36:25 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[24-Sep-2013 12:36:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[24-Sep-2013 12:36:44 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[06-Oct-2013 17:03:52 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/lakshyac/public_html/admin_home.php on line 95
+[06-Oct-2013 17:05:55 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/lakshyac/public_html/admin_home.php on line 95
+[06-Oct-2013 17:19:56 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/lakshyac/public_html/admin_home.php on line 95
+[07-Oct-2013 22:58:07 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[07-Oct-2013 22:58:07 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[26-Oct-2013 15:24:42 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[26-Oct-2013 15:24:42 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[26-Oct-2013 15:28:22 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[26-Oct-2013 15:28:22 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[27-Oct-2013 21:39:53 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[27-Oct-2013 21:39:53 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137
+[14-Dec-2013 07:24:40 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 106
+[14-Dec-2013 07:24:40 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/lakshyac/public_html/admin_home.php on line 137

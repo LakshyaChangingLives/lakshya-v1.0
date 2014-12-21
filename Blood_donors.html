@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Our Mission</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.6.js"></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script> 
+<script type="text/javascript" src="js/Vegur_700.font.js"></script>
+<script type="text/javascript" src="js/Vegur_400.font.js"></script>
+<script type="text/javascript" src="js/Vegur_300.font.js"></script>
+<script type="text/javascript" src="js/atooltip.jquery.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/tabs.js"></script>
+
+<!-- For including google maps -->
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=true"></script>
+
+<!-- For having attractive infobox -->
+<script src="http://google-maps-utility-library-v3.googlecode.com/svn/tags/infobox/1.1.9/src/infobox.js" type="text/javascript"></script>
+
+<style>
+            #googleMap{
+                border: solid #0000FF;
+            }
+
+            .find_donors {
+                position: absolute;
+                bottom: 50%;
+                right:20%;
+                background-color: #980002;
+                color: #FFFFFF;
+            }
+            
+            .lcl-city {
+                position: absolute;
+                bottom: 50%;
+                right:25%;
+                color: #980002;
+            }
+            
+            .city-help {
+                position: absolute;
+                bottom: 42%;
+                right:14%;
+                color: #980002;
+            }
+
+
+</style>
+
+        <script>
+            var map;
+
+            google.maps.visualRefresh = true;
+            var map_center;
+            var markers;
+            var marker_index;
+            var points;
+            var routeSymbol;
+            var infowindow;
+            var boxOptions;
+
+            var point11 = new Object();
+            var point12 = new Object();
+            var point13 = new Object();
+            var point14 = new Object();
+
+            var tracking_id_map = new Object();
+
+            function initialize()
+            {
+                map_center=new google.maps.LatLng(23.5,79); // Centre for India
+                // map_center=new google.maps.LatLng(12.97,77.60); // Bangalore Lat-Long centre                
+                markers = new Array();
+                marker_index = 0;
+                infowindow = null;
+
+                point11 = new Object();
+                point11['name'] = 'Kunal Kabra';
+                point11['contact'] = '9590692898'
+                point11['address'] = 'North Bangalore';
+                point11['pincode'] = '560003';
+
+                point12 = new Object();
+                point12['name'] = 'Amogh Kulkarni';
+                point12['contact'] = '9686963783'
+                point12['address'] = 'South Bangalore';
+                point12['pincode'] = '560082'; 
+
+                point13 = new Object();
+                point13['name'] = 'Abhinay Kankani';
+                point13['contact'] = '9611234401'
+                point13['address'] = 'East Bangalore';
+                point13['pincode'] = '560100';
+
+                point14 = new Object();
+                point14['name'] = 'Dheeraj Karanam';
+                point14['contact'] = '9590322111'
+                point14['address'] = 'West Bangalore';
+                point14['pincode'] = '560040';
+
+                donor_map = new Object();
+                donor_map['bangalore'] =  [point11, point12, point13, point14];                
+
+                var mapProp = {
+                    center:map_center,
+                    zoom:4,
+                    mapTypeId:google.maps.MapTypeId.ROADMAP
+                };
+                map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+            }
+
+            function find_donors()
+            {
+                var city = document.getElementById("city").value
+                initialize();
+                
+                // if (blood_group not in [blood_groups]) then throw error and exit
+                if(city!="bangalore")
+                {
+                    alert("No donors found in "+city+". Please visit again");
+                    return;
+                }
+                points = donor_map[city];
+
+                var index = null;
+                for(index in points){
+                    var point = points[index];
+                    var location_json = JSON.parse(get_location(point['pincode']));
+
+                    if(location_json["status"]!="OK")
+                    {
+                        alert("Unable to find details for pincode : " + point['pincode']);
+                        return;
+                    }
+
+                    var location_lat=location_json["results"][0]["geometry"]["location"]["lat"];
+                    var location_lng=location_json["results"][0]["geometry"]["location"]["lng"];
+                    place_marker(location_json,location_lat,location_lng,point);
+                }
+
+                var bounds = new google.maps.LatLngBounds();
+
+                for (var i=0;i<markers.length;i++)
+                {
+                    bounds.extend(markers[i].position);
+                }
+
+                map.fitBounds(bounds);
+            }
+
+            function place_marker(json,lat,lng,point)
+            {
+                var pinImage = null;
+                pinImage = new google.maps.MarkerImage("images/blood12.png",
+                            new google.maps.Size(50, 50),
+                            new google.maps.Point(0,0),
+                            new google.maps.Point(10,40)
+                );
+                
+
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(lat,lng),
+                    icon: pinImage,                    
+                    map: map
+                });
+                markers[marker_index++] = marker;
+
+                var boxText = document.createElement("div");
+                boxText.style.cssText = "border-radius: 10px;box-shadow: 0 0 8px #000;border:3px solid black;font-size:15px;background: #333;color: #FFF;padding: 8px 15px;";
+                var ib = new InfoBox();
+                
+                var info_content = null;
+
+                info_content = "Name: " + point['name'];
+                info_content += "<br>Contact No: " + point['contact'];
+                info_content += "<br>Address: " + point['address'];
+
+                boxText.innerHTML = info_content;
+
+                var boxOptions = {
+                    content: boxText
+                    ,disableAutoPan: false
+                    ,maxWidth: 0
+                    ,pixelOffset: new google.maps.Size(-60,-5)
+                    ,zIndex: null
+                    ,boxStyle: {
+                        width: "250px",
+                        opacity: 0.7
+                    }
+                    ,infoBoxClearance: new google.maps.Size(1, 1)
+                    ,isHidden: false
+                    ,background: "trackorder_files/tipbox.gif"
+                    ,pane: "floatPane"
+                    ,enableEventPropagation: false
+                };
+                ib.setOptions(boxOptions);
+
+                google.maps.event.addListener(marker,'mouseover',function(){
+                    ib.open(map,marker);
+                });
+
+                google.maps.event.addListener(marker,'mouseout',function(){
+                    ib.close(map,marker);
+                });
+            }
+
+            function get_location(pincode)
+            {
+                var url = "http://maps.googleapis.com/maps/api/geocode/json?address="+pincode+"+india&sensor=false";
+                var client = new XMLHttpRequest();
+                client.open("GET", url, false);
+                client.setRequestHeader("Content-Type", "text/plain");
+                client.send();
+                return client.responseText
+            }
+
+        </script>
+
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="js/html5.js"></script>
+	<style type="text/css">
+		.box1 figure {behavior:url(js/PIE.htc)}
+	</style>
+<![endif]-->
+<!--[if lt IE 7]>
+		<div style='clear:both;text-align:center;position:relative'>
+			<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" alt="" /></a>
+		</div>
+<![endif]-->
+</head>
+<body id="page2" onload="initialize()">
+	<div class="body1">
+		<div class="main">
+<!-- header -->
+			<header>
+				<div class="wrapper">
+					<h1><a href="index.php" id="logo">LAKSHYA</a></h1>
+					<nav>
+						<ul id="top_nav">
+						<br>
+							<div class="images_left" align="center">
+		
+		<a target="_blank" href ="https://www.facebook.com/Lakshya.changinglives"><img 
+src="http://lakshyachanginglives.org/images/social/facebook.png" alt="Facebook"/></a>
+		<a target="_blank" href ="http://www.linkedin.com/groups/LakshyaChanging-Lives-4869364/about?
+trk=anet_ug_grppro"><img src="http://lakshyachanginglives.org/images/social/linkedin.png" alt="LinkedIn"/></a>
+		<a target="_blank" href ="https://twitter.com/Lakshya_Change"><img 
+src="http://lakshyachanginglives.org/images/social/twitter.png" alt="Twitter"/></a>
+		<a target="_blank" href ="https://plus.google.com/u/0/communities/100838634670801816599"><img 
+src="http://lakshyachanginglives.org/images/social/google-plus-black.png" alt="Google Plus"/></a>
+		<a target="_blank" href ="http://lakshyachanginglives.blogspot.in/"><img 
+src="http://lakshyachanginglives.org/images/social/blogger.png"  alt="Blogger"/></a>
+	</div>
+						</ul>
+					</nav>
+					<nav>
+						<ul id="menu">
+							<li><a href="index.php">Home</a></li>
+							<li id="menu_active"><a href="Mission.html">Our Mission</a></li>
+							<li><a href="Gallery.php">Gallery</a></li>
+							<li><a href="Help.html">How to Help</a></li>
+							<li><a href="Contact.html">Contact Us</a></li>
+						</ul>
+					</nav>
+				</div>
+			</header><div class="ic"></div>
+<!-- / header -->
+<!-- content -->
+			<article id="content" class="tabs">
+				<div class="wrapper">
+					<div class="box1">
+					<div id="googleMap" style="width:600px;height:450px;border-color:#980002"></div>
+        <input class="lcl-city" id="city" width="20" value="bangalore" style="visibility:visible">&nbsp;&nbsp;
+        <button type="button" id="tracking_id" onclick="find_donors()" class="find_donors" style="visibility:visible">Find Donors</button><br/>
+        <p class="city-help">(Enter your city and click on Find Donors)</p>
+        <p>(Move your mouse over <img src="images/blood12.png"> to get the Contact details of the donor)</p>						
+					</div>
+				</div>
+			</article>
+<!-- / content -->
+<!-- footer -->
+			<footer>
+				<div class="wrapper">
+					<a href="index.php" id="footer_logo"><span>LAKSHYA</span></a>
+				
+				</div>	
+				<div class="wrapper">
+					<nav>
+						<ul id="footer_menu">
+							<li><a href="index.php">Home</a></li>
+							<li class="active"><a href="Mission.html">Our Mission</a></li>
+							<li><a href="Gallery.php">Gallery</a></li>
+							<li><a href="Help.html">How to Help</a></li>
+							<li class="end"><a href="Contact.html">Contact Us</a></li>
+						</ul>
+					</nav>
+					<div class="tel"></div>
+				</div>
+				<div id="footer_text">
+				<p><strong>A non profit society</strong>(Registered)</p> 
+				
+				</div>
+			</footer>
+<!-- / footer -->
+		</div>
+	</div>
+<script type="text/javascript">Cufon.now(); tabs.init();</script>
+</body>
+</html>

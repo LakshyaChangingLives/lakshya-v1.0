@@ -1,0 +1,78 @@
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, li, small {
+ 
+  margin: 0;
+ 
+  padding: 0;
+ 
+  border: 0;
+ 
+  outline: 0;
+ 
+  font-size: 100%;
+ 
+  background: transparent; }
+ 
+body {
+ 
+  width: 100%;
+  margin: 0 auto; }
+ 
+nav {
+ 
+  width: 100%;
+  position: fixed;
+  z-index:1000000;
+ }
+ 
+nav ul {
+ 
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;	}
+  
+nav ul li {
+  float: left;
+  width: 20%; 
+  }
+ 
+nav ul li a {
+ 
+  display: block;
+ 
+  width: 100%; }  
+  
+ 
+nav ul li a:hover {background: #FFCC66}
+ 
+nav ul li a {
+ 
+  text-align: center;
+ 
+  padding: 30px 0;
+ 
+  display: block;
+ 
+  width: 100%;
+  
+  color: #FFFFFF;
+font-family: Arial, sans-serif;
+font-size: medium;
+letter-spacing: 1px;
+  
+ 
+  background: #cdeb8e; /* Old browsers */
+ 
+  background: -moz-linear-gradient(top, #cdeb8e 0%, #b0ca34 100%); /* FF3.6+ */
+ 
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cdeb8e), color-stop(100%,#b0ca34)); /* Chrome,Safari4+ */
+ 
+  background: -webkit-linear-gradient(top, #cdeb8e 0%,#b0ca34 100%); /* Chrome10+,Safari5.1+ */
+ 
+  background: -o-linear-gradient(top, #cdeb8e 0%,#b0ca34 100%); /* Opera 11.10+ */
+ 
+  background: linear-gradient(to bottom, #cdeb8e 0%,#b0ca34 100%); /* W3C standard, IE10+ */
+ 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cdeb8e', endColorstr='#b0ca34',GradientType=0 ); /* IE6-9 */
+ 
+  }
